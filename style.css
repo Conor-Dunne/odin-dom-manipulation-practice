@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+
+.test-box {
+ border: 5px solid blue;
+ display: flex;
+}
+
+.one {
+    border: 3px solid red;
+    height: 50px;
+    width: 10px;
+    margin: 4px;
+    flex: 1;
+    justify-content: space-around;
+}
